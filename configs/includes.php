@@ -1,0 +1,14 @@
+<?php
+	include($rootFolder."/configs/defines.php");
+	include($rootFolder."/configs/url.php");
+	include($rootFolder."/classes/generate.php");
+	include($rootFolder."/classes/FlashMessages.php");
+	include($rootFolder."/classes/databases.php");
+	include($rootFolder."/classes/sql_fields.php");
+	include($rootFolder."/classes/sql_tables.php");
+	include($rootFolder."/classes/sql_query.php");
+	include($rootFolder."/classes/select.php");
+	include($rootFolder."/classes/insert.php");
+	include($rootFolder."/classes/update.php");
+	include($rootFolder."/classes/delete.php");
+?>
